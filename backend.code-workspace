@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jest.jestCommandLine": "node_modules/.bin/jest --config jest-config.json"
+	}
+}
